@@ -1,5 +1,5 @@
 # Dummy Shop API Documentation
-##### Last updated on September 22nd 2022
+##### Last updated on September 29th 2022
 
 The Dummy Shop is an API for the Key Dev Interview task.
 
